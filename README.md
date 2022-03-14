@@ -21,8 +21,8 @@ After this, I draw community detection algorithm, to analyse the community of th
 # Want to Contribute ?
 
 ```
-$ git clone https://github.com/bodhwani/why-employees-leave
-$ cd why-employees-leave
+$ git clone https://github.com/harivilasp/employees-attrition
+$ cd employees-attrition
 
 ```
 
